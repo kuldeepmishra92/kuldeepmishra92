@@ -81,7 +81,7 @@ I'm an M.Sc. Data Science student at IIIT Lucknow, passionate about Data Analyti
 ### 📈 Current LeetCode Streak
 <div>
   <p align="center">
-    <img src="[https://leetcode-stats.vercel.app/api?username=kuldeepmishra92&theme=dark](https://leetcode-stats.vercel.app/api?username=kuldeepmishra92&theme=Dark)" alt="LeetCode Streak" />
+    <img src="https://leetcode-stats.vercel.app/api?username=kuldeepmishra92&theme=Dark" alt="LeetCode Streak" />
   </p>
 </div>
 
